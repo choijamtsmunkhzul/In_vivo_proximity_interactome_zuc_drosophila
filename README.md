@@ -1,2 +1,4 @@
-# In_vivo_proximity_interactome_zuc_drosophila
-In vivo proximity labeling identifies the interactome of the endoribonuclease Zucchini in Drosophila ovary
+# In_vivo_profiling_of_the_Zucchini_proximal_proteome_in_the_Drosophila_ovary
+
+doi:10.1242/dev.201220
+
